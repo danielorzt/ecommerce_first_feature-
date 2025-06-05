@@ -22,6 +22,9 @@ import {
   Header,
   LearnMoreLinks,
   ReloadInstructions,
+  SafeAreaView,
+  SafeAreaProvider,
+  
 } from 'react-native/Libraries/NewAppScreen';
 
 type SectionProps = PropsWithChildren<{
